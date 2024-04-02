@@ -4,9 +4,7 @@ Projeto desenvolvido durante o programa ONE Oracle Next Education + Alura.
 
 ## Descrição do Desafio
 
-- O projeto tem o objetivo de criptografar e descriptografar palavras com algumas regras e requisitos.
-
-Projeto desenvolvido com base no [Figma](https://www.figma.com/file/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---L%C3%B3gica?type=design&node-id=16-802&mode=design)
+O projeto tem o objetivo de criptografar e descriptografar palavras com algumas regras e requisitos, para seu desenvolvimento foi usado como base o [Figma](https://www.figma.com/file/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---L%C3%B3gica?type=design&node-id=16-802&mode=design).
 
 ## Regras de Codificação
 As palavras são criptografadas seguindo as regras abaixo:
